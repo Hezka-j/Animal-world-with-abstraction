@@ -1,0 +1,3 @@
+﻿  Animal world.cpp
+D:\Проекты\Animal world\Animal world.cpp(415,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Animal world.vcxproj -> D:\Проекты\Animal world\x64\Debug\Animal world.exe
